@@ -3,9 +3,9 @@
 This repository contains my lab work for the **COEN 316** course at Concordia University.
 
 ## Labs Included
-- **Lab 1:** Basic VHDL Design and Simulation
-- **Lab 2:** Combinational Circuits and Testing
-- **Lab 3:** Sequential Circuits and FSMs
+- **Lab 1:** Arithmetic and Logic Unit
+- **Lab 2:** Register File
+- **Lab 3:** Next-Address Unit
 - **Lab 4:** MIPS CPU Datapath and Control Unit Design (Full CPU Integration)
 
 Each lab folder (`Lab1/`, `lab2/`, `Lab3/`, `Lab4/`) contains:
